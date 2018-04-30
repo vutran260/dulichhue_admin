@@ -1435,7 +1435,7 @@ var UserService = /** @class */ (function () {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return GlobalVariable; });
 var GlobalVariable = Object.freeze({
-    BASE_API_URL: 'https://quiet-tor-55680.herokuapp.com/',
+    BASE_API_URL: 'https://dulichhue.herokuapp.com/',
 });
 
 
